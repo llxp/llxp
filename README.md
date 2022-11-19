@@ -171,28 +171,18 @@
   </a>
 </p>
 
-<ul >
-  <li style="margin-left: -40px; list-style: none;">
-    <h3>Stats:</h3>
-  </li>
+<ul>
+  <h3>Stats:</h3>
 
-  <li style="margin-left: -40px; margin-bottom:0; list-style: none;">
-    <hr style="margin-bottom:0;"/>
-  </li>
-
-  <li style="margin-left: -40px; margin-top:0; margin-bottom: 0; list-style: none;">
+  <div style="margin-left: -40px; margin-top:0; margin-bottom: 0;">
     <div style="display: flex; flex-wrap: wrap; flex-direction: row; justify-content: space-around;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llxp&show_icons=true&locale=en&layout=compact" alt="llxp" height="195px"/>
       <img src="https://github-readme-stats.vercel.app/api?username=llxp&show_icons=true&locale=en" alt="llxp" height="195px"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=llxp&" alt="llxp" height="195px"/>
     <div>
-  </li>
+  </div>
 
-  <li style="margin-left: -40px; margin-top:0; list-style: none;">
-    <hr style="margin-top:0;"/>
-  </li>
-
-  <li style="margin-left: -40px; list-style: none;">
+  <li style="margin-left: -40px;">
     <img src="https://github-profile-trophy.vercel.app/?username=llxp&theme=apprentice&column=-1">
   </li>
 
