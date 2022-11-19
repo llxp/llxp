@@ -1,17 +1,3 @@
-<style>
-li {
-  list-style: none;
-  margin-top: 10px;
-}
-img {
-  margin: 0;
-  padding: 0;
-}
-/* body {
-  background-color: #000000;
-} */
-</style>
-
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">
   A passionate devops engineer/developer from kiel, currently working for Deutsche Telekom and part-time freelancer.
@@ -186,15 +172,15 @@ img {
 </p>
 
 <ul >
-  <li style="margin-left: -40px;">
+  <li style="margin-left: -40px; list-style: none;">
     <h3>Stats:</h3>
   </li>
 
-  <li style="margin-left: -40px; margin-bottom:0;">
+  <li style="margin-left: -40px; margin-bottom:0; list-style: none;">
     <hr style="margin-bottom:0;"/>
   </li>
 
-  <li style="margin-left: -40px; margin-top:0; margin-bottom: 0;">
+  <li style="margin-left: -40px; margin-top:0; margin-bottom: 0; list-style: none;">
     <div style="display: flex; flex-wrap: wrap; flex-direction: row; justify-content: space-around;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llxp&show_icons=true&locale=en&layout=compact" alt="llxp" height="195px"/>
       <img src="https://github-readme-stats.vercel.app/api?username=llxp&show_icons=true&locale=en" alt="llxp" height="195px"/>
@@ -202,18 +188,18 @@ img {
     <div>
   </li>
 
-  <li style="margin-left: -40px; margin-top:0;">
+  <li style="margin-left: -40px; margin-top:0; list-style: none;">
     <hr style="margin-top:0;"/>
   </li>
 
-  <li style="margin-left: -40px;">
+  <li style="margin-left: -40px; list-style: none;">
     <img src="https://github-profile-trophy.vercel.app/?username=llxp&theme=apprentice&column=-1">
   </li>
 
-  <li style="margin-left: -40px;">
+  <li style="margin-left: -40px; list-style: none;">
     <h3>Support:</h3>
   </li>
-  <li style="margin-left: -30px;">
+  <li style="margin-left: -30px; list-style: none;">
     <a href="https://www.buymeacoffee.com/llxp">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="llxp" />
     </a>
