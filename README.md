@@ -171,27 +171,16 @@
   </a>
 </p>
 
-<ul>
-  <h3>Stats:</h3>
+<h3>Stats:</h3>
 
-  <div style="margin-left: -40px; margin-top:0; margin-bottom: 0;">
-    <div style="display: flex; flex-wrap: wrap; flex-direction: row; justify-content: space-around;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llxp&show_icons=true&locale=en&layout=compact" alt="llxp" height="195px"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=llxp&show_icons=true&locale=en" alt="llxp" height="195px"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=llxp&" alt="llxp" height="195px"/>
-    <div>
-  </div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=llxp&show_icons=true&locale=en&layout=compact" alt="llxp" width="500"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=llxp&show_icons=true&locale=en" alt="llxp" width="500"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=llxp&" alt="llxp" width="500"/>
 
-  <li style="margin-left: -40px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=llxp&theme=apprentice&column=-1">
-  </li>
-
-  <li style="margin-left: -40px; list-style: none;">
-    <h3>Support:</h3>
-  </li>
-  <li style="margin-left: -30px; list-style: none;">
-    <a href="https://www.buymeacoffee.com/llxp">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="llxp" />
-    </a>
-  </li>
-</ul>
+  <img src="https://github-profile-trophy.vercel.app/?username=llxp&theme=apprentice&column=4">
+  
+  
+<h3>Support:</h3>
+  <a href="https://www.buymeacoffee.com/llxp">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="llxp" />
+  </a>
