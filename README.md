@@ -110,6 +110,8 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
   </a>
+
+<h3 align="left">Message Brokers:</h3>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
   </a>
@@ -163,6 +165,24 @@
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
+  </a>
+  <a href="https://traefik.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/traefik-1.svg" alt="nginx" width="40" height="40" />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
+  </a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/apache-13.svg" alt="ubuntu" width="40" height="40" />
+  </a>
+  <a href="https://letsencrypt.org/de/" target="_blank" rel="noreferrer">
+    <img src="https://letsencrypt.org/images/le-logo-standard.svg" alt="ubuntu" width="40" height="40" />
+  </a>
+  <a href="https://bitnami.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/bitnami.svg" alt="ubuntu" width="40" height="40" />
+  </a>
+  <a href="https://redhat.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="ubuntu" width="40" height="40" />
   </a>
 
 <h3 align="left">Other:</h3>
